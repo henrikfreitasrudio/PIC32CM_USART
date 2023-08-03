@@ -5,3 +5,7 @@
 - Environment:
   - IDE: MPLAB X 6.05
   - Framework: Harmony 3
+
+
+- Aplicação:
+  - This project uses the LED and the button available on the board itself. When the button is pressed, the LED changes its state, and a message is sent over the serial interface (SERCOM1) to the connected device.
